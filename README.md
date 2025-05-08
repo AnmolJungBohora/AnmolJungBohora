@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Gopal Jung Bohora (Anmol Bohora)! <br>🚀 React And Django Web Developer | Problem Solver | Tech Enthusiast <br>🎓 BCA @ Kathford International College of Engineering and Management<br><br>💡 I build full-stack web apps with a focus on performance, scalability & clean UX.<br>🧠 Into DSA, competitive programming & open-source contributions.<br>🔍 Always exploring new tools, frameworks & solving exciting challenges.<br><br><br>💬 Let’s connect, collaborate & create something awesome! 
 
-📫 How to Reach Me:<br>
+📫 <b>How to Reach Me</b><br>
 🌍 Website: https://www.gopaljungbohora.com.np/
 
 
